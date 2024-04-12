@@ -9,7 +9,7 @@ const App = () => {
     </section>
     <section id="Services">Parallax</section>
     <section>Services</section>
-    <section id="Portfolio">Parallax</section>
+    <section id="Portfolio" className="bg-none">Parallax</section>
     <section>Portfolio1</section>
     <section>Portfolio2</section>
     <section>Portfolio3</section>
